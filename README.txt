@@ -11,6 +11,3 @@ Each job creates a output folder and name can be specified in Driver class.
 
 The final output of the recommender system is produced in accumulate folder for all the users.
 
-
-Note: We worked on single machine i.e sairam vm so during the project execution we all connected on zoom and 
-worked on code with remote control. Hence it is difficult to give authorship to any individual. 
